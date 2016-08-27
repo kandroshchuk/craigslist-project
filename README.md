@@ -1,6 +1,6 @@
-#Basic Project
+#Craigslist Project
 
-*Simple Java Project*
+*Craigslist Java Project*
 
 **Java 7
 
